@@ -1,4 +1,4 @@
-import "./StartScreen.css"
+import "./TelaInicial.css"
 
 const StartScreen = ({inicio}) => {
   return (
