@@ -12,4 +12,4 @@ const GameOver = ({ reinicio, pontos }) => {
   );
 };
 
-export default GameOver;
+export default GameOver
