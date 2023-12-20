@@ -63,9 +63,9 @@ const Game = ({
             <p>Letras arriscadas nessa palavra:</p>
             {erros.map((letra, i) => (
                 <span key={i}>{letra} / </span>
-            ))};
+            ))}
             <div className="record">
-                <h3>RECORD DE PONTOS: 2100 PTS</h3>
+                <h3>PONTUAÇÃO MÁXIMA ATINGIDA: 2100 PTS</h3>
             </div>
         </div>
     </div>
