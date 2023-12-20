@@ -7,3 +7,5 @@ Como jogar:
 - Em caso de acerto, a letra digitada estará preenchida no(s) respectivo(s) local(is) onde se encontra na palavra;
 - Em caso de erro, a letra aparece no campo de letras arriscadas naquela palavra e reduz a quantidade de palpites restantes;
 - Após as 10 letras digitadas erradas, o jogo finaliza e mostra a pontuação atingida pelo usuário, além de um botão para tentar novamente
+
+OBS.: Qualquer letra de "A" a "Z" pode ser digitada, o único caracter especial possível é o "Ç", o jogo não considera acentuação gráfica (´, `, ^, ~) e existem palavras compostas no acervo do jogo.
